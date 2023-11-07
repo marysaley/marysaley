@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marysaley
 - 👀 I’m studying computer science and data science
-- 🌱 I’m currently learning Java and C
 - 📫 Reach me at my email @marymsaley@gmail.com
 
 <!---
